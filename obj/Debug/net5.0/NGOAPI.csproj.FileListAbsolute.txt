@@ -1,0 +1,58 @@
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\NGOAPI.exe
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\NGOAPI.deps.json
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\NGOAPI.runtimeconfig.json
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\NGOAPI.runtimeconfig.dev.json
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\NGOAPI.dll
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\ref\NGOAPI.dll
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\NGOAPI.pdb
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mayur\source\repos\NGOAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.csproj.AssemblyReference.cache
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.AssemblyInfoInputs.cache
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.AssemblyInfo.cs
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.csproj.CoreCompileInputs.cache
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\staticwebassets\NGOAPI.StaticWebAssets.Manifest.cache
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\staticwebassets\NGOAPI.StaticWebAssets.xml
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\scopedcss\bundle\NGOAPI.styles.css
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.csproj.CopyComplete
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.dll
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\ref\NGOAPI.dll
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.pdb
+C:\Users\Mayur\source\repos\NGOAPI\obj\Debug\net5.0\NGOAPI.genruntimeconfig.cache
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\appsettings.json
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\NGOAPI.exe
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\NGOAPI.deps.json
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\NGOAPI.runtimeconfig.json
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\NGOAPI.runtimeconfig.dev.json
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\NGOAPI.dll
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\ref\NGOAPI.dll
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\NGOAPI.pdb
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\NGO Website\NGOGIT\NGOAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.csproj.AssemblyReference.cache
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.AssemblyInfoInputs.cache
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.AssemblyInfo.cs
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.csproj.CoreCompileInputs.cache
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\staticwebassets\NGOAPI.StaticWebAssets.Manifest.cache
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\staticwebassets\NGOAPI.StaticWebAssets.xml
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\scopedcss\bundle\NGOAPI.styles.css
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.RazorTargetAssemblyInfo.cache
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.csproj.CopyComplete
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.dll
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\ref\NGOAPI.dll
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.pdb
+E:\NGO Website\NGOGIT\NGOAPI\obj\Debug\net5.0\NGOAPI.genruntimeconfig.cache
